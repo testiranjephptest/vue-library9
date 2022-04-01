@@ -1,6 +1,6 @@
 {
   "name": "@testiranjephptest/vue-library9",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "d",
   "main": "index.js",
   "module": "dist/library.mjs",

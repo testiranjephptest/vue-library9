@@ -1,6 +1,6 @@
 {
-  "name": "@testoviphp/vue-lib12",
-  "version": "1.0.1",
+  "name": "@testiranjephptest/vue-lib123",
+  "version": "1.0.0",
   "description": "d",
   "main": "index.js",
   "module": "dist/library.mjs",
